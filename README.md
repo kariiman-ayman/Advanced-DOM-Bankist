@@ -2,7 +2,7 @@
 
 Welcome to the **Bankist App** repository! This project is a minimalist and interactive banking interface designed to showcase advanced DOM manipulation and modern JavaScript practices. The app simulates a banking experience with smooth animations and dynamic content updates.
 
-👉 **Live Demo:** [Advanced DOM Bankist](https://advanced-dom-bankist-kariman.netlify.app/)
+👉 **Live Demo:** [Advanced DOM Bankist](https://advanced-dom-bankist.vercel.app/)
 
 ---
 
